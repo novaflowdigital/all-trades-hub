@@ -1,0 +1,6 @@
+{
+  "name": "All Trades Hub — Custom Homepage Concept",
+  "description": "All Trades Hub brings trusted, licensed professionals together through one reliable point of contact for electrical, house painting, plumbing, air conditioning, carpentry, landscaping, and property maintenance across Fremantle and Perth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
